@@ -7,4 +7,4 @@ All the scrips from my Thesis Projec
 - Made in Unity
 - C#
 
-<a href="https://imgur.com/Xsbrkex"><img src="https://i.imgur.com/Xsbrkex.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/Xsbrkex.png" title="source: imgur.com" />
